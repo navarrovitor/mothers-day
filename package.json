@@ -1,0 +1,22 @@
+{
+  "name": "mothersday",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/navarrovitor/mothers-day.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/navarrovitor/mothers-day/issues"
+  },
+  "homepage": "https://github.com/navarrovitor/mothers-day#readme",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
